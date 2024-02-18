@@ -87,7 +87,7 @@ export default {
   },
   mounted() {
     // Ganti URL di bawah dengan URL sebenarnya dari server Anda
-    const apiUrl = 'http://site.bimbel-militaryinforces.com/api/kegiatan';
+    const apiUrl = 'https://site.bimbel-militaryinforces.com/api/kegiatan';
 
     // Menggunakan Axios untuk mengambil data
     axios.get(apiUrl)
