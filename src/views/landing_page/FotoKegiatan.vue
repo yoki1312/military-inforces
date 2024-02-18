@@ -2,7 +2,6 @@
   <div class="foto-kegiatan">
     <Header />
     <Navbar />
-
     <section class="head-breadcrumb">
       <div class="container">
         <div class="row">
