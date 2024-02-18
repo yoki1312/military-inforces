@@ -1,0 +1,187 @@
+[27-Jul-2023 16:45:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:46:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:46:59 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:46:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[27-Jul-2023 16:46:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[27-Jul-2023 16:47:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:47:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[27-Jul-2023 16:47:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[27-Jul-2023 16:48:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:48:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[27-Jul-2023 16:48:30 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[27-Jul-2023 16:48:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 16:48:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[27-Jul-2023 16:48:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[27-Jul-2023 17:03:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 17:03:22 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 17:03:22 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/landing_page_method.php on line 22
+[27-Jul-2023 17:03:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/landing_page_method.php on line 23
+[27-Jul-2023 17:03:35 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 17:03:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[27-Jul-2023 17:03:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/landing_page_method.php on line 58
+[27-Jul-2023 17:03:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/landing_page_method.php on line 59
+[27-Jul-2023 17:04:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:34:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:34:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[30-Jul-2023 01:34:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[30-Jul-2023 01:37:19 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:37:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 113
+[30-Jul-2023 01:37:19 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[30-Jul-2023 01:37:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:37:51 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:38:01 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:40:38 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/bimbelmi/public_html/api/auth_method.php on line 103
+[30-Jul-2023 01:40:45 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/bimbelmi/public_html/api/auth_method.php on line 103
+[30-Jul-2023 01:40:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:40:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[30-Jul-2023 01:40:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:40:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 149
+[30-Jul-2023 01:40:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:42:06 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:42:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[30-Jul-2023 01:42:06 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:42:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 149
+[30-Jul-2023 01:42:06 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:43:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:43:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 114
+[30-Jul-2023 01:43:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:43:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 149
+[30-Jul-2023 01:43:24 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:43:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:43:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:43:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:43:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:43:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:34 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:37 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:37 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:37 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:37 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:39 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 150
+[30-Jul-2023 01:45:41 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:46:36 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:46:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:46:36 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:46:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:46:36 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:46:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:46:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:46:57 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:46:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:46:57 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:47:03 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:47:03 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:47:03 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:47:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:47:03 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:47:53 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:47:53 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:47:53 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:47:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:47:53 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:47:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:47:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:47:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:47:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:47:56 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:47:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:47:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:47:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:47:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:47:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:48:29 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:48:29 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:48:29 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:48:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:48:29 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:48:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:48:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:48:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:48:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 151
+[30-Jul-2023 01:48:58 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bimbelmi/public_html/api/auth_method.php:100) in /home/bimbelmi/public_html/api/auth_method.php on line 152
+[30-Jul-2023 01:51:13 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:51:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:51:13 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 01:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 01:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 01:52:45 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:05:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:05:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:05:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:06:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/bimbelmi/public_html/api/auth_method.php on line 103
+[30-Jul-2023 02:06:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/bimbelmi/public_html/api/auth_method.php on line 103
+[30-Jul-2023 02:06:30 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:06:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:06:30 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 123
+[30-Jul-2023 02:07:43 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:08:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:11:55 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:11:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:11:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:11:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:11:58 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:16:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:20:34 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:20:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 02:20:34 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:20:49 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:20:49 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 02:20:49 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:22:21 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:22:21 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 02:22:21 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:23:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:23:32 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 02:23:32 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:24:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:24:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 115
+[30-Jul-2023 02:24:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 117
+[30-Jul-2023 02:25:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:25:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:25:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:25:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:26:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:26:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/koneksi.php on line 8
+[30-Jul-2023 02:26:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/landing_page_method.php on line 112
+[30-Jul-2023 02:26:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/landing_page_method.php on line 113
+[30-Jul-2023 02:28:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:28:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:28:38 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:29:07 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bimbelmi'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:29:07 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:29:07 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:29:17 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'bimbelmi'@'localhost' (using password: YES) in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:29:17 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/bimbelmi/public_html/api/auth_method.php on line 119
+[30-Jul-2023 02:29:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/bimbelmi/public_html/api/auth_method.php on line 121
+[30-Jul-2023 02:29:31 Asia/Jakarta] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[30-Jul-2023 02:29:53 Asia/Jakarta] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/bimbelmi/public_html/api/auth_method.php on line 116
+[31-Jul-2023 21:37:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function datetime() in /home/bimbelmi/public_html/api/auth_method.php:89
+Stack trace:
+#0 /home/bimbelmi/public_html/api/Auth.php(41): Auth->uploadFile()
+#1 {main}
+  thrown in /home/bimbelmi/public_html/api/auth_method.php on line 89
+[31-Jul-2023 22:15:35 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/bimbelmi/public_html/api/auth_method.php on line 59
+[01-Aug-2023 15:58:55 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/bimbelmi/public_html/api/auth_method.php on line 303

@@ -1,0 +1,1036 @@
+
+
+body {
+    font-family: 'Ubuntu-regular'!important;
+    font-size: 1rem;
+    line-height: 28px;
+}
+
+/* button */
+.btn-default{
+    padding: 10px 25px;
+    background-color: #EF800F;
+    color: #fff;
+    border-radius: 3px;
+    display: inline-block;
+}
+.btn-default:hover{
+    color: #333!important;
+}
+.btn-daftar{
+    padding: 12px 60px 14px;
+    background-color: #EF800F;
+    color: #fff;
+    border-radius: 3px;
+    box-shadow: unset;
+    border: 0;
+    display: block;
+    margin: 0 auto;
+    font-size: 1.2rem;
+}
+
+/* font */
+.font-merk{
+    color: #EF800F;
+}
+a:hover{
+    text-decoration: none;
+}
+
+
+/* menu-top */
+.menu-top{
+    background-color: #000000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1.5px solid #414141;
+}
+.menu-top p{
+    color: #FFFFFF;
+    margin-bottom: 0;
+    font-size: 14px;
+}
+.menu-top .fa-phone{
+    transform: scale(-1, 1);
+}
+.menu-top .list-menu-top{
+    padding-inline-start: 0;
+    margin-bottom: 0;
+}
+.menu-top .list-menu-top li{
+    list-style-type: none;
+    display: inline-block;
+    padding-right: 30px;
+}
+.menu-top .list-menu-top li:last-child{
+    padding-right: 0;
+}
+.menu-top i{
+    margin-right: 5px;
+}
+.text-loc{
+    float: right;
+    transform: translateY(2.5px);
+}
+.list-menu-top a{
+    color: #fff;
+}
+.text-loc a{
+    color: #fff;
+}
+
+
+/* menu navbar */
+.menu-navbar{
+    background-color: #000;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.list-menu{
+    padding-inline-start: 0;
+    margin-bottom: 0;
+    float: right;
+}
+.list-menu li{
+    list-style-type: none;
+    padding-right: 30px;
+    display: inline-block;
+}
+.list-menu li:last-child{
+    padding-right: 25px;
+}
+.list-menu li a{
+    color: #fff;
+    font-family: 'BebasNeue-Regular';
+}
+.list-menu li a:hover{
+    color: #a7a1a1;
+}
+.list-menu li.btn-default a:hover{ 
+    text-decoration: none;
+    color: #F4F4F4!important;
+}
+.dropbtn {
+    border: none;
+    background: transparent;
+    color: #fff;
+    font-family: 'BebasNeue-Regular';
+}
+.dropbtn i{
+    margin-left: 5px;
+    transition: 0.5s all;
+    transform: rotate(0deg);
+}
+.dropdown:hover .dropbtn i{
+    transform: rotate(180deg);
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 15;
+    white-space: nowrap;
+}
+.dropdown-content a {
+    color: #000!important;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {background-color: #ddd;}
+.dropdown:hover .dropdown-content {display: block;}
+.img-menu{
+    position: absolute;
+    z-index: 99;
+}
+.menu-navbar-mobile, .sidebar{
+    display: none;
+}
+
+/* footer */
+.menu-footer{
+    background-color: #F4F4F4;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.img-footer{
+    width: 50%;
+    margin-bottom: 20px;
+}
+.menu-footer p{
+    margin-bottom: 0;
+    width: 85%;
+}
+.menu-footer h3{
+    font-family: 'BebasNeue-Regular';
+}
+.list-menu-footer{
+    padding-inline-start: 0;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-top: 20px;
+}
+.list-menu-footer li{
+    margin-bottom: 20px;
+}
+.list-menu-footer li a{
+    color: #000;
+}
+.list-menu-footer li a:hover{
+    color: #EF800F;
+    text-decoration: unset;
+}
+.list-menu-footer li i{
+    display: inline-block;
+    width: 7%;
+    color: #EF800F;
+    vertical-align: top;
+    font-size: 18px;
+}
+.list-menu-footer li span{
+    display: inline-block;
+    width: 91%;
+    transform: translateY(-2px);
+    padding-left: 5px;
+}
+.list-menu-footer li span p{
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.list-menu-footer li span p a{
+    color: #EF800F;
+}
+.list-menu-footer li span p a:hover{
+    text-decoration: underline;
+}
+.tiny-footer{
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.tiny-footer p{
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+
+/* banner */
+.text-banner{
+    position: relative;
+    top: 0;
+    background-color: #000;
+    height: 600px;
+}
+.dtext-banner{
+    margin-top: 160px;
+}
+.text-banner h4{
+    font-family: 'BebasNeue-Regular';
+    color: #EF800F;
+}
+.text-banner h1{
+    font-family: 'BebasNeue-Regular';
+    color: #FFF;
+    font-size: 4rem;
+}
+.text-banner p{
+    color: #FFFFFF;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    width: 85%;
+}
+.text-banner .btn-default{
+    font-family: 'BebasNeue-Regular';
+}
+.btnz-index{
+    position: relative;
+    z-index: 999;
+}
+
+/* table banner */
+.banner{
+    position: absolute;
+    top: 163px;
+    width: 100%;
+    height: 100%;
+}
+.table-banner{
+    width: 100%;
+}
+.table-banner td{
+    width: 100%;
+    position: relative;
+}
+.table-banner td{
+    padding-left: 50%;
+}
+.table-banner td img{
+    width: auto!important;
+    height: 600px;
+    object-fit: cover;
+}
+.table-banner .carousel-caption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    padding-top: 0;
+    padding-bottom: 20px;
+    height: 100%;
+}
+.carousel-control-prev, .carousel-control-next{
+    z-index: 12;
+    background: rgba(0, 0, 0, 0.50);
+    display: inline;
+    height: 50px;
+    width: 50px;
+    padding: 13px 18px;
+    transform: translateY(520px);
+    opacity: 1;
+}
+.table-banner .carousel-control-next{
+    right: unset;
+    margin-left: 70px;
+}
+.table-banner .carousel-control-prev{
+    margin-left: 10px;
+}
+.table-banner td img.img-fluid{
+    max-width: 600px;
+}
+
+/* spesialis kami */
+.spesialis-kami{
+    background: #000;
+    color: #fff;
+    padding: 100px 0;
+}
+.spesialis-kami a{
+    text-decoration: unset;
+}
+.spesialis-kami h2{
+    font-family: 'BebasNeue-Regular';
+    color: #fff!important;
+}
+.spesialis-kami p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+.dspesialis-kami {
+    height: 100%;
+    position: relative;
+    margin-bottom: 30px;
+}
+.dspesialis-kami img{
+    width: 100%;
+}
+.first-sp{
+    margin-top: 5%;
+}
+.dspesialis-kami a {
+    color: #fff;
+    font-family: 'BebasNeue-Regular';
+    text-decoration: unset!important;
+}
+.dspesialis-kami a:hover{
+    color: #EF800F;
+    text-decoration: unset!important;
+}
+.text-foot {
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+}
+.text-foot p{
+    margin-top: 0;
+}
+
+/* tentang kami */
+.tentang-kami{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.tentang-kami .icon1 {
+    width: 97px;
+    transform: translateY(55px);
+}
+.tentang-kami .icon2{
+    width: 97px;
+    position: absolute;
+    right: -20px;
+    top: -50px;
+}
+.tb-tentang-kami{
+    width: 100%;
+}
+.tb-tentang-kami td:first-child{
+    padding-right: 20px;
+    width: 60%;
+}
+.tb-tentang-kami td:last-child{
+    padding-left: 20px;
+    width: 40%;
+}
+.tb-tentang-kami h2{
+    font-family: 'BebasNeue-Regular';
+    color: #000;
+    margin-bottom: 15px;
+}
+.tb-tentang-kami img{
+    width: 100%;
+}
+.tb-tentang-kami .btn-default {
+    font-family: 'BebasNeue-Regular';
+    display: inline-block;
+    margin: 10px 0 30px;
+}
+.tb-tentang-kami h3{
+    font-family: 'BebasNeue-Regular';
+    color: #EF800F;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+.tb-tentang-kami ol{
+    padding-inline-start: 20px;
+    margin-bottom: 0;
+}
+.tb-tentang-kami ol li{
+    margin-bottom: 7px;
+}
+.tb-tentang-kami ol li::marker {
+    color: #EF800F;
+    margin-right: 3px;
+}
+
+/* quotes */
+.quotes {
+    background-image: url(../images/bg2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: 150px;
+}
+.quotes .oquotes {
+    padding-top: 6%;
+    padding-bottom: 6%;
+    width: 100%;
+    height: auto;
+    position: relative;
+    display: block;
+    background: rgba(0, 0, 0, 0.70);
+}
+.quotes .oquotes h1{
+    color: #EF800F;
+    font-family: 'BebasNeue-Regular';
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+}
+.quotes .oquotes p{
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+.quotes .oquotes .btn-default {
+    font-family: 'BebasNeue-Regular';
+    display: inline-block;
+    margin: 35px 0 0;
+}
+.quotes-text{
+    padding-left: 40px;
+}
+.quotes-img{
+    width: 100%;
+    position: relative;
+    padding-right: 30px;
+}
+.img-quotes{
+    width: 100%;
+    position: absolute;
+    top: -200px;
+}
+
+/* sekolah kedinasan */
+.head-breadcrumb .breadcrumb{
+    text-align: right;
+    float: right;
+    background-color: transparent;
+    padding-right: 0;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.head-breadcrumb .breadcrumb a{
+    color: #EF800F;
+}
+.head-breadcrumb .breadcrumb-item.active, .breadcrumb-item + .breadcrumb-item::before{
+    color: #000000;
+}
+.body-skedinasan{
+    margin-bottom: 150px;
+}
+.body-skedinasan h1{
+    font-family: 'BebasNeue-Regular';
+    margin-bottom: 30px;
+}
+.body-skedinasan h5{
+    font-family: 'BebasNeue-Regular';
+    margin-bottom: 5px;
+}
+.body-skedinasan .card{
+    border: 0;
+}
+.body-skedinasan .card .card-header{
+    padding: 0;
+    margin-right: 40px;
+    background-color: transparent;
+}
+.body-skedinasan .card .card-body{
+    padding: 0 0 0 1.25rem;
+}
+.body-skedinasan .card .nav-link{
+    padding: 0.5rem 1rem 0 0;
+    color: #000;
+}
+.body-skedinasan .nav-pills .nav-link.active, .body-skedinasan .nav-pills .show > .nav-link{
+    background-color: transparent;
+    color: #EF800F;
+}
+.card-sk{
+    display: inline-block;
+    border: 1px solid #E2E2E2;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin: 0 15px 30px;
+}
+.card-sk:hover{
+    border: 1px solid #a7a1a1;
+}
+.dcard-sk{
+    padding: 6%;
+    text-align: center;
+}
+.dcard-sk img{
+    height: 132px;
+}
+.dcard-sk p{
+    margin-bottom: 0;
+    font-weight: 700;
+    margin-top: 10px;
+    color: #000;
+}
+.card-sk:hover p{
+    text-decoration: none;
+}
+
+/* halaman gallery */
+.foto-kegiatan .image{
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-height: 200px;
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+}
+
+
+/* halaman tentang kami */
+.banner-tk{
+    background-image: url(../images/banner-tentang-kami.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 70px;
+    background-position: center;
+}
+.banner-tk .breadcrumb{
+    text-align: right;
+    float: right;
+    background-color: transparent;
+    padding-right: 0;
+    margin-top: 0;
+    margin-bottom: 200px;
+    padding-top: 0;
+}
+.banner-tk .breadcrumb a{
+    color: #EF800F;
+}
+.banner-tk .breadcrumb-item.active, .banner-tk .breadcrumb-item + .breadcrumb-item::before{
+    color: #fff;
+}
+.banner-tk h3{
+    font-family: 'BebasNeue-Regular';
+    color: #EF800F;
+}
+.banner-tk p{
+    margin-top: 5px;
+    color: #fff;
+}
+.page-tentang-kami .tb-tentang-kami td:first-child{
+    width: 40%!important;
+}
+.page-tentang-kami .tb-tentang-kami td:last-child{
+    width: 60%!important;
+}
+.ptentan-kami-image{
+    width: 80%!important;
+}
+.daftar-harga{
+    margin-top: 30px;
+    margin-bottom: 70px;
+}
+.daftar-harga h1{
+    font-family: 'BebasNeue-Regular';
+    margin-bottom: 50px;
+}
+.list-harga-bimbingan{
+    display: inline-block;
+    border: 1px solid #E2E2E2;
+    margin: 0 15px 30px;
+    width: 22%;
+    border-radius: 3px;
+}
+.di-tentangkami .list-harga-bimbingan{
+    width: 30%;
+    height: 467px;
+    vertical-align: top;
+}
+.list-harga-bimbingan:hover{
+    border: 1px solid #a7a1a1;
+}
+.list-harga-bimbingan img{
+    width: 100%;
+    object-fit: cover;
+}
+.list-harga-bimbingan .div-text{
+    padding: 20px;
+}
+.list-harga-bimbingan .div-text p{
+    margin-bottom: 5px;
+    color: #535252;
+    font-size: 12px;
+}
+.list-harga-bimbingan .div-text p b{
+    font-weight: 700;
+    font-size: 1rem;
+    color: #000;
+}
+.list-harga-bimbingan .div-text span{
+    color: #EF800F;
+    font-size: 14px;
+}
+
+/* registrasi */
+.text-pilih-paket{
+    margin-bottom: 0;
+}
+.form-check-inline{
+    width: 32%;
+    vertical-align: top;
+}
+.list-paket{
+    margin: 20px 10px;
+}
+.dlist-paket{
+    padding: 10px 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    width: 320px;
+    min-height: 260px;
+}
+.dlist-paket p{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.dlist-paket h3{
+    text-align: center;
+}
+.dlist-paket h2{
+    color: #EF800F;
+    font-weight: bold;
+    text-align: center;
+}
+.dlist-paket ol{
+    padding-inline-start: 20px;
+    margin-bottom: 0;
+}
+.halaman-registrasi h1{
+    margin-bottom: 0;
+}
+
+/* halaman info pembayaran */
+.halaman-info-pembayaran p{
+    margin-bottom: 5px;
+}
+.no-rek{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.no-rek img{
+    height: 30px;
+    margin-bottom: 5px;
+}
+.no-rek p{
+    margin-bottom: 0;
+}
+
+
+/* soal gratis / coba gratis */
+.soal-gratis{
+    box-shadow: 0px 1px 12px 1px #dbbb9d;
+    border-radius: 10px;
+    padding: 30px;
+}
+.correctAnswers{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.soal-gratis h1{
+    text-align: center;
+}
+.soal-gratis button:hover:enabled{
+    background-color: #EF800F;
+}
+.modal-tryout-done h2{
+    font-weight: bold;
+}
+.modal-tryout-done .modal-header{
+    display: block;
+}
+.modal-tryout-done .button-close{
+    float: right;
+    transform: translateY(-125px);
+    background: transparent;
+    box-shadow: unset;
+    border: 0;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.modal-tryout-done .button-play{
+    background-color: rgba(100, 100, 100, 0.3);
+    padding: 10px 25px;
+    border-radius: 6px;
+    border: 0;
+}
+
+
+
+/* resposive */
+@media (max-width: 1199px){
+    /* footer */
+    .menu-footer p{
+        width: 100%;
+    }
+
+    /* tentang kami */
+    .first-sp {
+        margin-top: 0;
+    }
+    .tentang-kami .icon1{
+        transform: translateY(0px);
+    }
+    .tentang-kami .icon2{
+        top: 0;
+        width: 87px;
+        right: -15px;
+    }
+
+    /* halaman tentang kami */
+    .ptentan-kami-image {
+        width: 100%!important;
+    }
+    .page-tentang-kami .tb-tentang-kami td:first-child, .page-tentang-kami .tb-tentang-kami td:last-child {
+        width: 50%!important;
+    }
+    .list-harga-bimbingan{
+        width: 21%;
+    }
+
+    /* spesial kami */
+    .spesialis-kami p{
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+}
+@media (max-width: 991px){
+    /* menu top */
+    .menu-top .list-menu-top{
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .text-loc {
+        float: unset;
+        transform: unset;
+        text-align: center;
+    }
+
+    /* menu navbar */
+    .menu-navbar{
+        display: none;
+    }
+    .menu-navbar-mobile{
+        display: block;
+        background-color: #000;
+    }
+    .img-menu {
+        position: relative;
+        width: 63px;
+    }
+    .navbar {
+        float: right;
+        padding: 0 0 0.5rem !important;
+        transform: translateY(18px);
+    }
+    .navbar-toggler {
+        padding: 0.25rem 0.75rem !important;
+        font-size: 1.25rem !important;
+        line-height: 1 !important;
+        background-color: transparent !important;
+        border: 1px solid transparent !important;
+        border-radius: 0.25rem !important;
+    }
+    .navbar-toggler .icon-bar+.icon-bar {
+        margin-top: 4px;
+    }
+    .navbar-toggler .icon-bar {
+        display: block;
+        width: 22px;
+        height: 2px;
+        border-radius: 1px;
+        background-color: #fff;
+    }
+    .sidebar {
+        display: block;
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 10000;
+        top: 0;
+        right: 0;
+        background-color: #f1f1f1;
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+        box-shadow: -10px 0 20px -5px rgb(115 115 115 / 75%);
+    }
+    .sidebar a {
+        padding: .5rem 1rem;
+        text-decoration: none;
+        color: #000;
+        display: block;
+        transition: 0.3s;
+        font-family: 'BebasNeue-Regular';
+    }
+    .sidebar .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+    }
+    .dropdown{
+        padding-left: 1rem;
+        display: block;
+    }
+    .dropbtn{
+        padding-left: 0;
+        color: #000;
+        padding-bottom: 0.5rem;
+    }
+    .sidebar a.btn-default{
+        display: inline-block;
+        color: #fff;
+        padding: 10px 20px 5px;
+        margin-left: 1rem;
+        margin-top: 0.5rem;
+    }
+    .dropdown-content{
+        position: relative;
+    }
+    .dropdown:hover .dropdown-content{
+        margin-bottom: 0.5rem;
+        box-shadow: unset;
+    }
+
+      /* footer */
+    .img-footer {
+        width: 40%;
+        margin: 0 auto 20px;
+        display: block;
+    }
+    .menu-footer p {
+        text-align: center;
+    }
+    .menu-footer h3{
+        margin-top: 40px;
+    }
+    .list-menu-footer li span p{
+        text-align: left;
+    }
+
+    /* banner */
+    .banner{
+        position: relative;
+        top: 0;
+        margin-top: 0;
+    }
+    .text-banner{
+        height: auto;
+    }
+    .table-banner td img {
+        width: 100%!important;
+    }
+    .text-banner h1, .text-banner h4, .text-banner p{
+        text-align: center;
+        width: 100%;
+    }
+    .dtext-banner{
+        margin-top: 30px;
+    }
+    .table-banner td {
+        padding-left: 0;
+    }
+    .table-banner td img{
+        height: 300px;
+    }
+    .table-banner td img.img-fluid {
+        max-width: 100px;
+    }
+    .carousel-control-prev, .carousel-control-next{
+        transform: translateY(220px);
+    }
+    
+    /* tentang kami */
+    .tb-tentang-kami td:first-child{
+        width: 100%;
+    }
+    .tentang-kami .icon1 {
+        width: 70px;
+    }
+    .tb-tentang-kami td:last-child, .tentang-kami .icon2{
+        display: none;
+    }
+
+    /* quotes */
+    .quotes-text{
+        margin-top: 170px;
+    }
+    .img-quotes{
+        width: 50%;
+        left: 25%;
+    }
+    .quotes-text {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    /* halaman tentang kami */
+    .page-tentang-kami .tb-tentang-kami td:first-child{
+        display: none;
+    }
+    .page-tentang-kami .tb-tentang-kami td:last-child{
+        display: block;
+        width: 100%!important;
+    }
+    .list-harga-bimbingan {
+        width: 28%;
+    }
+    .page-tentang-kami p{
+        margin-bottom: 30px;
+    }
+
+    /* halaman registrasi */
+    .form-check-inline{
+        width: 47%;
+    }
+
+    /* sekolah kedinasan */
+    .card-sk{
+        width: 150px;
+        height: 150px;
+        margin: 0 10px 20px;
+    }
+    .dcard-sk img {
+        height: 90px;
+    }
+    .dcard-sk p{
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    /* spesial kami */
+    .spesialis-kami p{
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        line-clamp: 4;
+        -webkit-box-orient: vertical;
+    }
+}
+@media (max-width: 767px){
+    /* tentang kami */
+    .tentang-kami .icon1 {
+        width: 50px;
+    }
+    .tentang-kami .icon1 {
+        transform: translateY(-20px);
+    }
+
+    /* quotes */
+    .img-quotes {
+        width: 70%;
+        left: 15%;
+        margin-top: -32%;
+        top: 0;
+    }
+    .quotes .oquotes{
+        padding-bottom: 50px;
+    }
+
+    /* halaman tentang kami */
+    .list-harga-bimbingan {
+        width: 100%;
+        margin: 0 0 30px;
+    }
+
+    /* halaman registrasi */
+    .form-check-inline{
+        width: 100%;
+    }
+
+    /* sekolah kedinasan */
+    .tab-content{
+        margin-top: 50px;
+    }
+
+    /* spesial kami */
+    .spesialis-kami p{
+        overflow: visible;
+        display: -webkit-box;
+        -webkit-line-clamp: unset;
+        line-clamp: unset;
+        -webkit-box-orient: vertical;
+    }
+
+}

@@ -1,0 +1,18 @@
+RewriteEngine On # Turn on the rewriting engine
+
+RewriteRule ^landing_page/?$ landing_page.php [NC,L]
+
+RewriteRule ^landing_page/([^/]+)/?$ landing_page.php?act=$1 [NC,L]
+
+RewriteRule ^auth/?$ Auth.php [NC,L]
+
+RewriteRule ^auth/([^/]+)/?$ Auth.php?act=$1 [NC,L]
+
+RewriteRule ^member/profile/?$ member/profile.php [NC,L]
+RewriteRule ^member/profile/([^/]+)/?$ member/profile.php?act=$1 [NC,L]
+
+RewriteRule ^member/member/?$ member/member.php [NC,L]
+RewriteRule ^member/member/([^/]+)/?$ member/member.php?act=$1 [NC,L]
+
+RewriteRule ^admin/member/?$ admin/member.php [NC,L]
+RewriteRule ^admin/member/([^/]+)/?$ admin/member.php?act=$1 [NC,L]
